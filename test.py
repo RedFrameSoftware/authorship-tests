@@ -6,6 +6,8 @@ def test_function():
     print("Hello Test Repository")
 
 
+def add(a, b):
+    return a + b
 
 
 
